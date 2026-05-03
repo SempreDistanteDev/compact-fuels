@@ -13,6 +13,10 @@ local base_tech = {
         {
             type = "unlock-recipe",
             recipe = "c-c-solid-fuel"
+        },
+        {
+            type = "unlock-recipe",
+            recipe = "c-c-c-solid-fuel"
         }
     },
     unit =

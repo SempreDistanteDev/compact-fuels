@@ -1,9 +1,9 @@
 {
     "name": "compact-fuels",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "title": "Compact Fuels",
     "author": "briel1235",
-    "factorio_version": "2.0",
+    "factorio_version": "2.1",
     "dependencies": [],
     "description": "Add more variants of compact fuels."
   }

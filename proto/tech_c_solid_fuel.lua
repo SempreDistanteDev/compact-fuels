@@ -8,15 +8,19 @@ local base_tech = {
     {
         {
             type = "unlock-recipe",
-            recipe = "c-solid-fuel"
+            recipe = "c1-solid-fuel"
         },
         {
             type = "unlock-recipe",
-            recipe = "c-c-solid-fuel"
+            recipe = "c2-solid-fuel"
         },
         {
             type = "unlock-recipe",
-            recipe = "c-c-c-solid-fuel"
+            recipe = "c3-solid-fuel"
+        },
+        {
+            type = "unlock-recipe",
+            recipe = "c4-solid-fuel"
         }
     },
     unit =

@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2026-10-30
+  Changes:
+    - Factorio version bump
+    - Changed recipe protocol to use categories instead of category (Factorio 2.1)
+    - Added 4th compacted level
+    - PT-BR Fix missing letter on locale
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-04-28
   Changes:
